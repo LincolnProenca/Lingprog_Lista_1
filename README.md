@@ -1,3 +1,3 @@
 # Lingprog_Lista_1
-Os números nos nomes dos arquivos correspondem as questões da lista de exercícios
-Lista: https://wiki.python.org.br/EstruturaSequencial
+Os números nos nomes dos arquivos correspondem as questões da lista de exercícios abaixo
+https://wiki.python.org.br/EstruturaSequencial
